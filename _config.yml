@@ -3,7 +3,7 @@ inc:
   title:        "Jean-Marc Fontaine"
   subtitle:     "Passionate web developer since 1996, specialized in PHP<br>Music enthusiast since 1977"
   cover_image:  blog-cover.jpg
-  logo:         logo.png
+  logo:
 
   # Company information
   company:      "Jean-Marc Fontaine"
